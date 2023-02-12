@@ -35,3 +35,6 @@ C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\WebApi\JwtWebApi\JwtWebApi\bin\De
 C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\WebApi\JwtWebApi\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\WebApi\JwtWebApi\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\WebApi\JwtWebApi\JwtWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\WebApi\JwtWebApi\JwtWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\WebApi\JwtWebApi\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\WebApi\JwtWebApi\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
